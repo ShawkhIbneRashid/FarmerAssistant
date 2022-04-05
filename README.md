@@ -18,3 +18,4 @@ If it can't find green pixel in the image it discards the image and prompts the 
 <p align="center">
   <img src="https://sites.google.com/site/shawkhsprojectdescription/projects/i-uriya-o-krsaka/Screenshot_2018-05-06-16-59-43.png?attredirects=0" width="350" title="hover text">
 </p>
+We worked on this project as a teeam of three in National Hackathon 2016 and Robo-Droid Championship-2016. We won the motivational award in Robo-Droid championship for this Android app. The certificate can be accessed using this <a href="https://sites.google.com/view/shawkh/certificates/robo-droid?authuser=1">link</a>.
